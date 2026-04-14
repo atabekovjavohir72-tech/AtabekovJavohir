@@ -1,0 +1,21 @@
+.main{
+   margin:200px 450px;
+   text-align :center;
+   display:flex;
+   flex-direction:row;
+   gap:50px;
+   background:#ddb892;
+   width:600px;
+   height:400px;
+   padding:30px;
+   border-bottom:20px solid #7f5539;
+   border-radius:30px;
+   
+
+   
+}
+img{
+    width:250px;
+    height:300px;
+    
+}
