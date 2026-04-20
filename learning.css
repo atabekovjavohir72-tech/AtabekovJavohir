@@ -1,0 +1,62 @@
+
+h1{
+    
+    font-size: 100px;
+    display:block;
+    text-align:center;
+    background:#03045e;
+    text-shadow:3px 3px 6px red;
+   
+
+}
+.M{
+    font-weight:bold;
+    font-size:20px;
+    display:flex;
+    gap:30px;
+    background:#14213d;
+    color:white;
+    
+}
+.V{
+    display:block;
+    img{
+    width:300px;
+    height:360px;
+    padding:30px;
+  }
+     
+}
+.Micheal{
+    display:block;
+    img{
+    width:300px;
+    height:360px;
+    padding:30px 50px;
+  }
+   
+   
+}
+.Tom {
+  img{
+    width:300px;
+    height:360px;
+    padding:30px;
+  }
+   
+}
+.C{
+    text-decoration:underline;
+    color:red;
+    display:block;
+}
+.H{
+    text-decoration:underline;
+    color:red;
+    display:block;
+}
+.Vi{
+    text-decoration:underline;
+    color:red;
+    display:block;
+}
