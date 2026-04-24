@@ -1,3 +1,3 @@
 # AtabekovJavohir
-Full Stack Web Developer
+Full Stack MERN Developer
 Tashkent,Uzbekistan
